@@ -147,4 +147,4 @@ streamlit run src/dashboard/app.py
 
 **Aayush Salooja**
 
-GitHub: https://github.com/AayushSalooja
+GitHub: https://github.com/AayushSalooja/Hospital-Bed-Management
