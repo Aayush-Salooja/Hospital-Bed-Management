@@ -1,0 +1,21 @@
+# Raw MIMIC data
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large intermediate files
+data/processed/hospital_daily_demand_complete.csv
+

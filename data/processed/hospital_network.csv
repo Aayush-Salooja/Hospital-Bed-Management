@@ -1,0 +1,6 @@
+hospital_id,hospital_name,total_beds,icu_beds,doctors,nurses,latitude,longitude,specialties
+1,Hospital A,500,80,120,300,20.2961,85.8245,"MED,SURG,CARD,NEURO"
+2,Hospital B,350,50,80,180,20.31,85.81,"MED,ORTHO,SURG"
+3,Hospital C,600,100,150,350,20.28,85.85,"MED,CARD,NEURO"
+4,Hospital D,250,40,60,140,20.33,85.78,"ORTHO,SURG"
+5,Hospital E,450,70,110,250,20.27,85.87,"MED,CARD,SURG"

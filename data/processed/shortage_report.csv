@@ -1,0 +1,6 @@
+hospital_name,future_available_beds,future_available_icu,bed_shortage,icu_shortage
+Hospital A,111,31,False,False
+Hospital B,0,22,False,False
+Hospital C,63,8,False,False
+Hospital D,24,8,False,False
+Hospital E,132,11,False,False

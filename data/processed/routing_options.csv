@@ -1,0 +1,5 @@
+hospital_name,distance,available_beds,available_icu_beds,bed_utilization_pct
+Hospital A,0.006,135,31,73.0
+Hospital B,0.0141,24,22,93.14
+Hospital C,0.0361,87,8,85.5
+Hospital E,0.0583,156,11,65.33
