@@ -85,22 +85,6 @@ To simulate a realistic multi-hospital environment, synthetic operational datase
 
 ---
 
-## 📸 Dashboard Screenshots
-
-### System Overview
-![Overview](screenshots/dashboard_overview.png)
-
-### Admission Forecast
-![Forecast](screenshots/forecast.png)
-
-### ICU Forecast
-![ICU](screenshots/icu_forecast.png)
-
-### Ambulance Routing
-![Routing](screenshots/routing.png)
-
----
-
 ## 📁 Project Structure
 
 ```text
